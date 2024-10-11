@@ -15,7 +15,6 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
-lib/core/utils/api_keys.dart
 
 lib/core/utils/strings
 # The .vscode folder contains launch configuration and tasks you configure in
@@ -33,7 +32,6 @@ lib/core/utils/strings
 .pub/
 /build/
 
-lib/src/paypal_service.dart
 # Symbolication related
 app.*.symbols
 
