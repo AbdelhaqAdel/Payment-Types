@@ -1,6 +1,5 @@
 import 'package:checkout_payment_ui/Features/checkout/data/repos/checkout_repo_impl.dart';
 import 'package:checkout_payment_ui/Features/checkout/presentation/manger/cubit/payment_cubit.dart';
-import 'package:checkout_payment_ui/Features/checkout/presentation/views/payment_details.dart';
 import 'package:checkout_payment_ui/Features/checkout/presentation/views/widgets/cart_info_item.dart';
 import 'package:checkout_payment_ui/Features/checkout/presentation/views/widgets/payment_methods_bottom_sheet.dart';
 import 'package:checkout_payment_ui/Features/checkout/presentation/views/widgets/total_price_widget.dart';
