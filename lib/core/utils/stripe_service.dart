@@ -2,7 +2,7 @@ import 'package:checkout_payment_ui/Features/checkout/data/models/ephemeral_key_
 import 'package:checkout_payment_ui/Features/checkout/data/models/init_payment_sheet_input_model.dart';
 import 'package:checkout_payment_ui/Features/checkout/data/models/payment_intent_input_model.dart';
 import 'package:checkout_payment_ui/Features/checkout/data/models/payment_intent_model/payment_intent_model.dart';
-import 'package:checkout_payment_ui/core/utils/api_keys.dart';
+import 'package:checkout_payment_ui/core/utils/strings/api_keys.dart';
 import 'package:checkout_payment_ui/core/utils/api_service.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';

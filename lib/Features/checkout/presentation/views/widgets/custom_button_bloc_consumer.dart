@@ -1,7 +1,7 @@
 import 'package:checkout_payment_ui/Features/checkout/data/models/payment_intent_input_model.dart';
 import 'package:checkout_payment_ui/Features/checkout/presentation/manger/cubit/payment_cubit.dart';
 import 'package:checkout_payment_ui/Features/checkout/presentation/views/thank_you_screen.dart';
-import 'package:checkout_payment_ui/core/utils/api_keys.dart';
+import 'package:checkout_payment_ui/core/utils/strings/api_keys.dart';
 import 'package:checkout_payment_ui/core/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

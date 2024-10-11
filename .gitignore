@@ -15,7 +15,9 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+lib/core/utils/api_keys.dart
 
+lib/core/utils/strings
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
@@ -32,8 +34,6 @@ migrate_working_dir/
 /build/
 
 lib/src/paypal_service.dart
-
-lib/core/utils/api_keys.dart
 # Symbolication related
 app.*.symbols
 
